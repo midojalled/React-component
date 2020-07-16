@@ -1,10 +1,9 @@
 import React from 'react';
-import './App.css';
-import Main from './Main.js';
+import './Style.css';
 function App() {
   return (
     <div className="App">
-      <Main/>
+      <h1 className="Name ">Abdelhamid Jalled</h1>
     </div>
   );
 }

@@ -1,10 +1,9 @@
 import React from 'react';
-import './App.css';
-import Main from './Main.js';
+
 function App() {
   return (
     <div className="App">
-      <Main/>
+      <h1  className="address">Soliman, 8020</h1>
     </div>
   );
 }

@@ -1,11 +1,12 @@
 import React from 'react';
-import './App.css';
-import Main from './Main.js';
+import PF from './pf.png'
+import './Style.css';
 function App() {
   return (
     <div className="App">
-      <Main/>
+      <center> <img className="image"src={PF}></img></center>
     </div>
+    
   );
 }
 
